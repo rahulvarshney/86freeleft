@@ -15,7 +15,7 @@ export default function Home() {
         />
         <h1 class="text-4xl font-bold">86 Free Left</h1>
         <p class="my-4">
-          git push should work
+          Z Z ZZZZ
           <code class="mx-2">./routes/index.tsx</code> file, and refresh.
         </p>
         <Counter count={count} />
